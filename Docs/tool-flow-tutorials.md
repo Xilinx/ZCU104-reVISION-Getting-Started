@@ -1,5 +1,5 @@
 <p align="right">
-            Read this page in other languages:<a href="../Japanese-master/tool-flow-tutorials.md">日本語</a>    <table style="width:100%"><table style="width:100%">
+            Read this page in other languages:<a href="../../Japanese-master/tool-flow-tutorials.md">日本語</a>    <table style="width:100%"><table style="width:100%">
   <tr>
 
 <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>reVISION Getting Started Guide 2018.3 (UG1265)</h1>
@@ -7,7 +7,7 @@
 
   </tr>
   <tr>
-    <td width="17%" align="center"><a href="https://github.com/Xilinx/TechDocs/blob/reVISION-getting-started-develop/README.md">1. Introduction</a></td>
+    <td width="17%" align="center"><a href="../README.md">1. Introduction</a></td>
     <td width="16%" align="center"><a href="overview.md">2. Overview</a></td>
     <td width="17%" align="center"><a href="software-tools-system-requirements.md">3. Software Tools and System Requirements</a></td>
     <td width="17%" align="center"><a href="design-file-hierarchy.md">4. Design File Hierarchy</a></td>
